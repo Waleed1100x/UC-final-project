@@ -3,31 +3,20 @@
 <div dir="rtl">
 
 ### اسم الطالب
-
+وليد فايز المطيري
 
 ### اسم المشروع
-
+بقاله 
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+بقاله تقدم مستلزمات المنزل من اكل و ماود تنظيف والاخره 
 
 # الأعمال المستقبلية
 
 
 </div>
 
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
 
